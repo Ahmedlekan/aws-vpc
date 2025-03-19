@@ -98,19 +98,19 @@ enableDnsSupport:
 
 1. Create subnet A
 
-Subnet 1 - Us-East-1a - For the Reserved A
+- Subnet 1 - Us-East-1a - For the Reserved A
 
 ![Image](https://github.com/user-attachments/assets/1d00f5ac-65ff-40fd-8629-e06ba598e53d)
 
-Subnet 2 - Us-East-1a - For the Database A
+- Subnet 2 - Us-East-1a - For the Database A
 
 ![Image](https://github.com/user-attachments/assets/b7fdfc9a-0fdc-4d86-9a6d-1261fb056e9f)
 
-Subnet 3 - Us-East-1a - For App A
+- Subnet 3 - Us-East-1a - For App A
 
 ![Image](https://github.com/user-attachments/assets/2fc436b1-73f4-4ab3-87ca-3e930f19397d)
 
-Subnet 4 - Us-East-1a -  For Web A
+- Subnet 4 - Us-East-1a -  For Web A
 
 ![Image](https://github.com/user-attachments/assets/72b0d203-b83a-44ce-8f71-94be05baf603)
 
@@ -132,6 +132,13 @@ Subnet 4 - Us-East-1a -  For Web A
 4. Click on each subnet, edit subnet settings and enable Auto-assign IPv6 settings. 
 
 ![Image](https://github.com/user-attachments/assets/874dd866-e13f-4f6d-9076-c037fa0ebeb3)
+
+
+
+
+
+
+
 
 
 
